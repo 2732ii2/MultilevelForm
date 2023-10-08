@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Multi -level Form  ( where data is been updated Real-time .)
+ <h6> what ever the data has been filled by the user is being updated sideby side using Libraries Like Redux and Next -JS it was not that much easy but it's help to build that kind of Form </h6>
+
 #Screenshot 
 
 <img width="434" alt="s21" src="https://github.com/2732ii2/MultilevelForm/assets/83974207/aeb63e7d-4587-4ef0-8957-dca60edd42d2">
